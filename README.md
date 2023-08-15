@@ -1,5 +1,5 @@
 # JQueryKeyboard.js
-Example implementation of a Keyboard.js using JQuery. This was from 2016 when JQuery's rule was coming to an end and React and Angular were taking over.
+Example implementation of a Keyboard.js using JQuery. This was from 2016 when JQuery's rule was at an end and React and Angular were taking over.
 
 Keyboard shortcuts have been a staple of technology since the GUI first appeared. They empower users who are familiar with the software tools they are using and ensure that there are multiple ways of achieving the same goal and given the keyboards availability compared to a menu item which requires mouse movements and clicks to attain; a "shortcut" to access.
 
